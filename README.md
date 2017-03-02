@@ -1,7 +1,7 @@
 Multiple choice questions ask people to choose the answer from a list. It mostly used in educational testing. I am going to develop a computer program to read all raw plain text data and produce a detailed analysis report on the competition. I need to write a program that the answer sheets read and converted into a text file using a multiple choice analysis system.
 
 
-The multiple choice analysis system can provide different functions, including
+The multiple choice analysis system can provide different functions, including:
 1.Question analysis
 2.Searching Student
 3.Showing the result
