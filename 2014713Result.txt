@@ -1,0 +1,48 @@
+Time: 2014/07/13 21:44
+Performance
+No. of participants: 10
+No. of participating schools: 3
+Mean: 5.4
+Standard deviation: 3.0
+Participants' Performance
+           Name  Mark         School  Rank
+       Ken Chan     9        School1     2
+ Jessica Wilson     8        School2     3
+    Roger Scott     7        School3     4
+     Anne Lewis     5        School1     6
+ Rose Patterson     4        School2     7
+    Dennis King     6        School3     5
+   Aaron Watson     1        School1     9
+   Mary Jackson     3        School2     8
+    Walter Bell     1        School3     9
+ Heather Watson    10        School1     1
+
+School's Performance
+           Name  Mark No. of Participants  Mean  Rank
+        School1    25                   4   6.3     1
+        School2    15                   3   5.0     2
+        School3    14                   3   4.7     3
+
+Prize
+Individual Awards
+  1st runner up            Ken Chan
+  2nd runner up      Jessica Wilson
+       Champion      Heather Watson
+
+School Awards
+       Champion        School1
+  1st runner up        School2
+  2nd runner up        School3
+
+Question Analysis
+Question  Freq    Answer   Percentage
+    1     8         A          80%
+    2     7         B          70%
+    3     5         C          50%
+    4     5         D          50%
+    5     4         A          40%
+    6     4         B          40%
+    7     2         C          20%
+    8     7         D          70%
+    9     6         A          60%
+   10     6         B          60%
